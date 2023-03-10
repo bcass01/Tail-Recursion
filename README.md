@@ -1,4 +1,4 @@
-# tail-recursion
+# Tail Recursive Functions
 ###### This repository contains a structure for linked lists of integers (ListNode.java) and twelve tail-recursive functions for this linked lists (ListFunctions.java). These functions include:
 
 1. *isEmpty(ListNode list)*: returns true if the list is empty, false otherwise.
